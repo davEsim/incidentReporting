@@ -1,2 +1,2 @@
 # incidentReporting
-mně to příjde fajn tenhle rep
+mně to příjde fajn tenhle repositar
